@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @zild19
+- 👋 Hi, I’m @zild
 - 👀 I’m interested in reading books. 
 - 🌱 I’m currently learning Korean language. 
 - 💞️ I’m looking to collaborate on nothing. 
 - 📫 How to reach me through my Email. 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: English
+- ⚡ Fun fact: Python was not named after a snake.
 
 <!---
 zild19/zild19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
